@@ -1,0 +1,3 @@
+﻿  2.cpp
+D:\wtx\Cryptograghy\现代密码学\EX4\Shamir\2.cpp(83,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Shamir.vcxproj -> D:\wtx\Cryptograghy\现代密码学\EX4\Shamir\x64\Debug\Shamir.exe
